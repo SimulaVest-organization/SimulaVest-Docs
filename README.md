@@ -65,9 +65,10 @@ Além disso, oferece dois modos de simulado com propostas diferentes:
 
 Desenvolvido por:
 
-- **Lukiteco** – Estudante de Análise e Desenvolvimento de Sistemas (FATEC Indaiatuba)  
+- **Adrian** - Estudante de...
 - **Felipe Grolla Freitas** – Estudante de Engenharia de Controle e automação PUC-Campinas
-- **Magal** - Estudante de ...
+- **Lukiteco** – Estudante de Análise e Desenvolvimento de Sistemas (FATEC Indaiatuba)  
+- **Magal** - Estudante de...
 
 ---
 
