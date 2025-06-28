@@ -80,7 +80,3 @@ Toda sugestão é bem-vinda! 🤝
 ---
 
 > 🧠 *"Estudar é treinar a mente. E o SimulaVest é o seu campo de batalha antes da guerra."*
-
-Faltar solucionar o erro quando executado o comando npx tailwindcss init -p, erro apresentado
-npm error could not determine executable to run
-npm error A complete log of this run can be found in: C:\Users\felipe\AppData\Local\npm-cache\_logs\2025-05-19T22_10_21_552Z-debug-0.log
