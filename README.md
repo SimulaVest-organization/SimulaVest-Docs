@@ -50,8 +50,7 @@ Além disso, oferece dois modos de simulado com propostas diferentes:
 - **MySQL** (armazenamento das informações)
 - **Draw.io** (modelagem)
 - **Wireframe** (<a href="https://www.figma.com/design/qzUcURqKi9Ez1VXlkIqrqc/Projeto-Plataforma-digital-vestibulares?node-id=0-1&t=u52zmBDtruBKlaCr-1">Desing Figma</a>)
-- *(á decidir)* **HTML/CSS/JS** para interface gráfica  
-- *(Futuro)* **Trilhas Lo-Fi via integração com Spotify API ou arquivos locais)
+- **REACT e TYPESCRIPT** para interface gráfica
 
 ---
 
