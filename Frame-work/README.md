@@ -36,8 +36,7 @@ This documentation ensures **transparency, structure, and traceability** from th
 - [**Trello**](https://trello.com/) – Task and workflow management (Kanban)  
 - [**Draw.io**] – Process flow and system diagrams  
 - [**Figma**] – UI and wireframe support  
-- [**Markdown/PDF**] – Roadmap, notes, deliverables  
-- [**Google Drive** or **Notion**] – Team collaboration *(optional)*
+- [**Markdown/PDF**] – Roadmap, notes, deliverables
 
 ---
 

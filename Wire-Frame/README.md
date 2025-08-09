@@ -49,16 +49,6 @@ You can access the full design prototype via the following link:
 ## 👥 Designer(s)
 
 -- **Felipe Grolla Freitas** – Estudante de Engenharia de Controle e automação PUC-Campinas
--- **Lukiteco** – Estudante de Análise e Desenvolvimento de Sistemas (FATEC Indaiatuba)  
---
---
-
----
-
-## 💬 Feedback and Suggestions
-
-If you have ideas for improving the design or need access to edit the files, feel free to get in touch.  
-Visual clarity is key to user trust and project impact. 🤝
 
 ---
 
