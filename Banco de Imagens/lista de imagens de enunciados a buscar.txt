@@ -1,0 +1,673 @@
+Provas na qual deve ser buscadas as imagens de cada questão
+
+FUVEST
+fuvest 2025
+	questão 01 a 90
+	https://www.curso-objetivo.br/vestibular/resolucao-comentada/fuvest/2025_1fase/fuvest2025_1fase_prova_V1.pdf
+fuvest 2024
+	questão 01 a 90
+	https://www.fuvest.br/wp-content/uploads/fuvest2024_primeira_fase_prova_V.pdf
+fuvest 2023
+	questão 01 a 90
+	https://www.curso-objetivo.br/vestibular/resolucao-comentada/fuvest/2023_1fase/fuvest2023_1fase_prova_K.pdf
+fuvest 2022
+	questão 01 a 90
+	https://www.curso-objetivo.br/vestibular/resolucao-comentada/fuvest/2022_1fase/fuvest2022_1fase_prova_V.pdf
+fuvest 2021
+	questão 01 a 90
+	https://www.curso-objetivo.br/vestibular/resolucao-comentada/fuvest/2021_1fase/fuvest2021_1fase_prova.pdf
+fuvest 2020
+	questão 01 a 90
+	https://www.curso-objetivo.br/vestibular/resolucao-comentada/fuvest/2020_1fase/fuvest2020_1fase_prova.pdf
+fuvest 2019
+	questão 01 a 90
+	https://www.curso-objetivo.br/vestibular/resolucao-comentada/fuvest/2019_1fase/fuvest2019_1fase_prova.pdf
+fuvest 2018
+	questão 01 a 90
+	https://www.curso-objetivo.br/vestibular/resolucao-comentada/fuvest/2018_1fase/fuvest2018_prova.pdf
+fuvest 2017
+	questão 01 a 90
+	https://www.curso-objetivo.br/vestibular/resolucao-comentada/fuvest/2017_1fase/fuvest2017_prova.pdf
+fuvest 2016
+	questão 01 a 90
+	https://www.curso-objetivo.br/vestibular/resolucao-comentada/fuvest/2016_1fase/fuvest2016_prova.pdf
+fuvest 2015
+	questão 01 a 90
+	https://www.curso-objetivo.br/vestibular/resolucao-comentada/fuvest/2015_1fase/fuvest2015_prova.pdf
+
+===================================================================================================
+UNICAMP
+unicamp 2025
+	questão 01 a 90
+	https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2025_1fase/unicamp2025_1fase_prova_QZ.pdf
+unicamp 2024
+	questão 01 a 90
+unicamp 2023
+	questão 01 a 90
+	https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2023_1fase/unicamp2023_1fase_prova_QZ.pdf
+unicamp 2022
+	questão 01 a 90
+	https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2022_1fase/unicamp2022_1fase_prova_QX.pdf
+unicamp 2021
+	questão 01 a 90
+	https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2021_1fase/1dia/unicamp2021_1fase_1dia_prova_EG.pdf
+unicamp 2020
+	questão 01 a 90
+	https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2020_1fase/unicamp2020_1fase_prova_QX.pdf
+unicamp 2019
+	questão 01 a 90
+	https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2019_1fase/unicamp2019_1fase_prova_QX.pdf
+unicamp 2018
+	questão 01 a 90
+	https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2018_1fase/unicamp2018_1fase_prova_Q.pdf
+unicamp 2017
+	questão 01 a 90
+	https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2017_1fase/unicamp2017_prova_QY.pdf
+unicamp 2016
+	questão 01 a 90
+	https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2016_1fase/UNICAMP2016_1fase_prova_SX.pdf
+unicamp 2015
+	questão 01 a 90
+	https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2015_1fase/UNICAMP2015_1fase_prova.pdf
+
+===================================================================================================
+UNESP
+UNESP 2025
+	questão 01 a 90
+UNESP 2024
+	questão 01 a 90
+UNESP 2023
+	questão 01 a 90
+UNESP 2022
+	questão 01 a 90
+UNESP 2021
+	questão 01 a 90
+UNESP 2020
+	questão 01 a 90
+UNESP 2018
+	questão 01 a 90
+UNESP 2016
+	questão 01 a 90
+UNESP 2015
+	questão 01 a 90
+
+===================================================================================================
+ENEM
+ENEM 2025
+	dia1
+		questão 01 a 90
+	dia2
+		questão 01 a 90
+ENEM 2024
+	dia1
+		questão 01 a 90
+	dia2
+		questão 01 a 90
+
+ENEM 2023
+	dia1
+		questão 01 a 90
+	dia2
+		questão 01 a 90
+
+ENEM 2022
+	dia1
+		questão 01 a 90
+	dia2
+		questão 01 a 90
+
+ENEM 2021
+	dia1
+		questão 01 a 90
+	dia2
+		questão 01 a 90
+
+ENEM 2020
+	dia1
+		questão 01 a 90
+	dia2
+		questão 01 a 90
+
+ENEM 2019
+	dia1
+		questão 01 a 90
+	dia2
+		questão 01 a 90
+
+ENEM 2018
+	dia1
+		questão 01 a 90
+	dia2
+		questão 01 a 90
+
+ENEM 2017
+	dia1
+		questão 01 a 90
+	dia2
+		questão 01 a 90
+
+ENEM 2016
+	dia1
+		questão 01 a 90
+	dia2
+		questão 01 a 90
+
+ENEM 2015
+	dia1
+		questão 01 a 90
+	dia2
+		questão 01 a 90
+
+===================================================================================================
+ITA
+ITA 2025
+	questão 01 a 90
+ITA 2024
+	questão 01 a 90
+ITA 2023
+	questão 01 a 90
+ITA 2022
+	questão 01 a 90
+ITA 2021
+	questão 01 a 90
+ITA 2020
+	questão 01 a 90
+ITA 2019
+	questão 01 a 90
+ITA 2018
+	questão 01 a 90
+ITA 2017
+	questão 01 a 90
+ITA 2016
+	questão 01 a 90
+ITA 2015
+	questão 01 a 90
+
+===================================================================================================
+IME
+IME 2025
+	questão 01 a 90
+IME 2024
+	questão 01 a 90
+IME 2023
+	questão 01 a 90
+IME 2022
+	questão 01 a 90
+IME 2021
+	questão 01 a 90
+IME 2020
+	questão 01 a 90
+IME 2019
+	questão 01 a 90
+IME 2018
+	questão 01 a 90
+IME 2017
+	questão 01 a 90
+IME 2016
+	questão 01 a 90
+IME 2015
+	questão 01 a 90
+
+===================================================================================================
+EINSTEIN
+EINSTEIN 2025
+	questão 01 a 90
+EINSTEIN 2024
+	questão 01 a 90
+EINSTEIN 2023
+	questão 01 a 90
+EINSTEIN 2022
+	questão 01 a 90
+EINSTEIN 2021
+	questão 01 a 90
+EINSTEIN 2020
+	questão 01 a 90
+EINSTEIN 2019
+	questão 01 a 90
+EINSTEIN 2018
+	questão 01 a 90
+EINSTEIN 2017
+	questão 01 a 90
+EINSTEIN 2016
+	questão 01 a 90
+
+===================================================================================================
+FAMEMA
+FAMEMA 2018
+	questão 01 a 90
+FAMEMA 2017
+	questão 01 a 90
+FAMEMA 2016
+	questão 01 a 90
+
+===================================================================================================
+FAMERP
+FAMERP 2025
+	questão 01 a 90
+FAMERP 2024
+	questão 01 a 90
+FAMERP 2023
+	questão 01 a 90
+FAMERP 2022
+	questão 01 a 90
+FAMERP 2021
+	questão 01 a 90
+FAMERP 2020
+	questão 01 a 90
+FAMERP 2019
+	questão 01 a 90
+FAMERP 2018
+	questão 01 a 90
+FAMERP 2017
+	questão 01 a 90
+FAMERP 2016
+	questão 01 a 90
+FAMERP 2015
+	questão 01 a 90
+
+===================================================================================================
+FATEC
+FATEC 2025
+	questão 01 a 90
+FATEC 2024
+	questão 01 a 90
+FATEC 2023
+	questão 01 a 90
+FATEC 2022
+	questão 01 a 90
+FATEC 2020
+	questão 01 a 90
+FATEC 2019
+	questão 01 a 90
+FATEC 2018
+	questão 01 a 90
+FATEC 2017
+	questão 01 a 90
+FATEC 2016
+	questão 01 a 90
+FATEC 2015
+	questão 01 a 90
+
+===================================================================================================
+MACKENZIE
+MACKENZIE 2024
+	questão 01 a 90
+MACKENZIE 2023
+	questão 01 a 90
+MACKENZIE 2020
+	questão 01 a 90
+MACKENZIE 2019
+	questão 01 a 90
+MACKENZIE 2018
+	questão 01 a 90
+MACKENZIE 2017
+	questão 01 a 90
+MACKENZIE 2016
+	questão 01 a 90
+MACKENZIE 2015
+	questão 01 a 90
+
+===================================================================================================
+MANDIC
+MANDIC 2024
+	questão 01 a 90
+MANDIC 2022
+	questão 01 a 90
+MANDIC 2021
+	questão 01 a 90
+MANDIC 2019
+	questão 01 a 90
+MANDIC 2018
+	questão 01 a 90
+MANDIC 2017
+	questão 01 a 90
+
+===================================================================================================
+PUCCAMP
+PUCCAMP 2024
+	questão 01 a 90
+PUCCAMP 2023
+	questão 01 a 90
+PUCCAMP 2022
+	questão 01 a 90
+PUCCAMP 2021
+	questão 01 a 90
+PUCCAMP 2020
+	questão 01 a 90
+PUCCAMP 2019
+	questão 01 a 90
+PUCCAMP 2018
+	questão 01 a 90
+PUCCAMP 2017
+	questão 01 a 90
+PUCCAMP 2016
+	questão 01 a 90
+PUCCAMP 2015
+	questão 01 a 90
+
+===================================================================================================
+PUCSP
+PUCSP 2025
+	questão 01 a 90
+PUCSP 2024
+	questão 01 a 90
+PUCSP 2020
+	questão 01 a 90
+PUCSP 2019
+	questão 01 a 90
+PUCSP 2018
+	questão 01 a 90
+PUCSP 2017
+	questão 01 a 90
+PUCSP 2016
+	questão 01 a 90
+PUCSP 2015
+	questão 01 a 90
+
+===================================================================================================
+UEA
+UEA 2025
+	questão 01 a 90
+UEA 2024
+	questão 01 a 90
+UEA 2023
+	questão 01 a 90
+UEA 2022
+	questão 01 a 90
+UEA 2021
+	questão 01 a 90
+UEA 2020
+	questão 01 a 90
+UEA 2019
+	questão 01 a 90
+UEA 2018
+	questão 01 a 90
+UEA 2017
+	questão 01 a 90
+UEA 2016
+	questão 01 a 90
+UEA 2015
+	questão 01 a 90
+
+===================================================================================================
+UECE
+UECE 2025
+	questão 01 a 90
+UECE 2023
+	questão 01 a 90
+UECE 2022
+	questão 01 a 90
+
+===================================================================================================
+UEL
+UEL 2025
+	questão 01 a 90
+UEL 2024
+	questão 01 a 90
+UEL 2023
+	questão 01 a 90
+UEL 2022
+	questão 01 a 90
+UEL 2021
+	questão 01 a 90
+UEL 2020
+	questão 01 a 90
+UEL 2019
+	questão 01 a 90
+UEL 2018
+	questão 01 a 90
+UEL 2017
+	questão 01 a 90
+UEL 2016
+	questão 01 a 90
+UEL 2015
+	questão 01 a 90
+
+===================================================================================================
+UEM
+UEM 2024
+	questão 01 a 90
+UEM 2023
+	questão 01 a 90
+UEM 2022
+	questão 01 a 90
+UEM 2021
+	questão 01 a 90
+UEM 2020
+	questão 01 a 90
+UEM 2019
+	questão 01 a 90
+UEM 2018
+	questão 01 a 90
+UEM 2017
+	dia1
+		questão 01 a 90
+	dia2
+		questão 01 a 90
+	dia3
+		questão 01 a 90
+
+UEM 2016
+	dia1
+		questão 01 a 90
+	dia2
+		questão 01 a 90
+
+UEM 2015
+	dia1
+		questão 01 a 90
+	dia2
+		questão 01 a 90
+
+===================================================================================================
+UEMG
+UEMG 2024
+	questão 01 a 90
+UEMG 2023
+	questão 01 a 90
+UEMG 2022
+	questão 01 a 90
+UEMG 2019
+	questão 01 a 90
+UEMG 2018
+	questão 01 a 90
+UEMG 2017
+	questão 01 a 90
+UEMG 2016
+	questão 01 a 90
+UEMG 2015
+	questão 01 a 90
+
+===================================================================================================
+UEPG
+UEPG 2024
+	questão 01 a 90
+UEPG 2023
+	questão 01 a 90
+UEPG 2022
+	questão 01 a 90
+UEPG 2021
+	questão 01 a 90
+UEPG 2020
+	questão 01 a 90
+UEPG 2019
+	questão 01 a 90
+UEPG 2018
+	questão 01 a 90
+UEPG 2017
+	questão 01 a 90
+UEPG 2016
+	questão 01 a 90
+UEPG 2015
+	questão 01 a 90
+
+===================================================================================================
+UERJ
+UERJ 2025
+	dia1
+		questão 01 a 90
+	dia2
+		questão 01 a 90
+
+UERJ 2024
+	questão 01 a 90
+UERJ 2023
+	questão 01 a 90
+UERJ 2022
+	questão 01 a 90
+UERJ 2021
+	questão 01 a 90
+UERJ 2020
+	dia1
+		questão 01 a 90
+	dia2
+		questão 01 a 90
+
+UERJ 2019
+	dia1
+		questão 01 a 90
+	dia2
+		questão 01 a 90
+
+UERJ 2018
+	questão 01 a 90
+UERJ 2017
+	questão 01 a 90
+UERJ 2016
+	questão 01 a 90
+UERJ 2015
+	questão 01 a 90
+
+===================================================================================================
+UERR
+UERR 2025
+	questão 01 a 90
+UERR 2024
+	questão 01 a 90
+UERR 2023
+	questão 01 a 90
+UERR 2022
+	questão 01 a 90
+UERR 2021
+	questão 01 a 90
+UERR 2020
+	questão 01 a 90
+UERR 2019
+	questão 01 a 90
+UERR 2018
+	questão 01 a 90
+UERR 2017
+	questão 01 a 90
+UERR 2016
+	questão 01 a 90
+
+===================================================================================================
+UFAM
+UFAM 2025
+	questão 01 a 90
+UFAM 2024
+	questão 01 a 90
+UFAM 2023
+	questão 01 a 90
+UFAM 2022
+	questão 01 a 90
+UFAM 2021
+	questão 01 a 90
+UFAM 2020
+	questão 01 a 90
+UFAM 2019
+	questão 01 a 90
+UFAM 2018
+	questão 01 a 90
+UFAM 2017
+	questão 01 a 90
+UFAM 2016
+	questão 01 a 90
+UFAM 2015
+	questão 01 a 90
+
+===================================================================================================
+UFG
+UFG 2025
+	questão 01 a 90
+UFG 2021
+	questão 01 a 90
+UFG 2017
+	questão 01 a 90
+
+===================================================================================================
+UFPR
+UFPR 2025
+	questão 01 a 90
+UFPR 2024
+	questão 01 a 90
+UFPR 2022
+	questão 01 a 90
+UFPR 2021
+	questão 01 a 90
+UFPR 2020
+	questão 01 a 90
+UFPR 2019
+	questão 01 a 90
+UFPR 2018
+	questão 01 a 90
+UFPR 2017
+	questão 01 a 90
+UFPR 2016
+	questão 01 a 90
+UFPR 2015
+	questão 01 a 90
+
+===================================================================================================
+UFRGS
+UFRGS 2017
+	questão 01 a 90
+UFRGS 2016
+	questão 01 a 90
+UFRGS 2015
+	questão 01 a 90
+
+===================================================================================================
+UFRR
+UFRR 2025
+	questão 01 a 90
+UFRR 2024
+	questão 01 a 90
+UFRR 2023
+	questão 01 a 90
+UFRR 2022
+	questão 01 a 90
+UFRR 2021
+	questão 01 a 90
+UFRR 2020
+	questão 01 a 90
+UFRR 2019
+	questão 01 a 90
+UFRR 2018
+	questão 01 a 90
+UFRR 2017
+	questão 01 a 90
+UFRR 2016
+	questão 01 a 90
+UFRR 2015
+	questão 01 a 90
+
+===================================================================================================
+UFSC
+UFSC 2024
+	questão 01 a 90
+UFSC 2023
+	questão 01 a 90
+	
+===================================================================================================
+UFSM
+UFSM 2024
+	questão 01 a 90
+UFSM 2023
+	questão 01 a 90
+UFSM 2017
+	questão 01 a 90
+UFSM 2016
+	questão 01 a 90
+UFSM 2015
+	questão 01 a 90
