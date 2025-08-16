@@ -1,15 +1,6 @@
 Provas na qual deve ser buscadas as imagens de cada questão
 
 FUVEST
-fuvest 2025
-	questão 01 a 90
-	https://www.curso-objetivo.br/vestibular/resolucao-comentada/fuvest/2025_1fase/fuvest2025_1fase_prova_V1.pdf
-fuvest 2024
-	questão 01 a 90
-	https://www.fuvest.br/wp-content/uploads/fuvest2024_primeira_fase_prova_V.pdf
-fuvest 2023
-	questão 01 a 90
-	https://www.curso-objetivo.br/vestibular/resolucao-comentada/fuvest/2023_1fase/fuvest2023_1fase_prova_K.pdf
 fuvest 2022
 	questão 01 a 90
 	https://www.curso-objetivo.br/vestibular/resolucao-comentada/fuvest/2022_1fase/fuvest2022_1fase_prova_V.pdf
@@ -37,9 +28,6 @@ fuvest 2015
 
 ===================================================================================================
 UNICAMP
-unicamp 2025
-	questão 01 a 90
-	https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2025_1fase/unicamp2025_1fase_prova_QZ.pdf
 unicamp 2024
 	questão 01 a 90
 unicamp 2023
@@ -72,9 +60,6 @@ unicamp 2015
 
 ===================================================================================================
 UNESP
-UNESP 2025
-	questão 01 a 90
-	https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2025/1fase/UNESP2025_1fase_prova.pdf
 UNESP 2024
 	questão 01 a 90
 	https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2024/1fase/UNESP2024_1fase_prova.pdf
