@@ -1,18 +1,6 @@
 Provas na qual deve ser buscadas as imagens de cada questão
 
 FUVEST
-fuvest 2022
-	questão 01 a 90
-	https://www.curso-objetivo.br/vestibular/resolucao-comentada/fuvest/2022_1fase/fuvest2022_1fase_prova_V.pdf
-fuvest 2021
-	questão 01 a 90
-	https://www.curso-objetivo.br/vestibular/resolucao-comentada/fuvest/2021_1fase/fuvest2021_1fase_prova.pdf
-fuvest 2020
-	questão 01 a 90
-	https://www.curso-objetivo.br/vestibular/resolucao-comentada/fuvest/2020_1fase/fuvest2020_1fase_prova.pdf
-fuvest 2019
-	questão 01 a 90
-	https://www.curso-objetivo.br/vestibular/resolucao-comentada/fuvest/2019_1fase/fuvest2019_1fase_prova.pdf
 fuvest 2018
 	questão 01 a 90
 	https://www.curso-objetivo.br/vestibular/resolucao-comentada/fuvest/2018_1fase/fuvest2018_prova.pdf
